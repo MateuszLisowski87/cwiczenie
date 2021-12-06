@@ -1,2 +1,4 @@
 Drugi plik
 Zmiana lokalna w drugim
+Wprowadzimy jakąś zmianę zdalnie
+
